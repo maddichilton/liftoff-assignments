@@ -7,11 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Organizational app for remote journalism work that allows users to upload, edit and claim assignments.
 ### Features
-Include Features here
+User login (two categories, editor and writer?)
+Create user
+Create assignment
+Claim assignment
+Filter claimed/unclaimed
+View current work on user profile
 ### Technologies
-Include Technologies here
+Java
+calendar API
+Javascript?
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+API, javascript
+
+TRELLO: https://trello.com/invite/b/ETJumYNy/329f7b581864982799d4e6b1988a8c55/launchcode-capstone
