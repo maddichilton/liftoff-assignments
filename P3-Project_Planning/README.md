@@ -8,8 +8,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* 1: entrance page/login & signup ![entrance page/login & signup](/liftoff-assignments/1.jpg)
-* 2: home page/profile ![home page/profile](/liftoff-assignments/2.jpg)
+* 1: entrance page/login & signup ![entrance page/login & signup](1.JPG)
+* 2: home page/profile ![home page/profile](2.JPG)
 
 ### Project Tracker
 
