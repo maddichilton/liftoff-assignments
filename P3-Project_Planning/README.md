@@ -8,12 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* 1: entrance page/login & signup ![entrance page/login & signup](/liftoff-assignments/1.jpg)
+* 2: home page/profile ![home page/profile](/liftoff-assignments/2.jpg)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/invite/b/ETJumYNy/329f7b581864982799d4e6b1988a8c55/launchcode-capstone
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/maddichilton/capstone
