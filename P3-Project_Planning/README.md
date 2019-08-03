@@ -8,8 +8,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* 1: entrance page/login & signup ![entrance page/login & signup](1.JPG)
-* 2: home page/profile ![home page/profile](2.JPG)
+* 1: [entrance page/login & signup](https://github.com/maddichilton/liftoff-assignments/blob/master/1.JPG)
+* 2: [home page/profile](https://github.com/maddichilton/liftoff-assignments/blob/master/2.JPG)
 
 ### Project Tracker
 
